@@ -11,3 +11,10 @@ This repo should help us in the process of on-boarding new OK lab members. After
 > "A Problem Well-stated is Half-solved" – Charles Kettering
 
 If you open a new issue, please make sure to choose appropriate [labels](https://github.com/codeforberlin/tickets/labels).
+
+## Related
+* https://github.com/public-transport/ideas/issues
+
+## CC0
+
+The content and tickets of this repository are in the public domain by using the CC0. You can whatever you want with the tickets and do not need to attribute anybody.
